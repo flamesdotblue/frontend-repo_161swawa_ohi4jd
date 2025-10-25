@@ -14,7 +14,7 @@ const experiences = [
   {
     title: 'Private Soirées',
     desc: 'Intimate dinners and exclusive gatherings with refined detail and quiet luxury.',
-    image: 'https://images.unsplash.com/photo-1518834107812-67b2d1f0a2d3?q=80&w=2000&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1621773734563-63e6004ed6a0?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxQcml2YXRlJTIwU29pciVDMyVBOWVzfGVufDB8MHx8fDE3NjE0MzI2Mjh8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80',
   },
 ];
 

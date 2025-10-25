@@ -30,13 +30,13 @@ export default function LuxuryShowcase() {
           <div className="lg:w-1/2 w-full">
             <motion.div style={{ y, scale }} className="relative grid grid-cols-12 grid-rows-6 gap-4 h-[600px]">
               <div className="col-span-7 row-span-6 rounded-3xl overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1542317853-eb7b2f6f5143?q=80&w=2200&auto=format&fit=crop" alt="Grand ballroom" className="w-full h-full object-cover" />
+                <img src="https://images.unsplash.com/photo-1559753217-bbb7d4ffc9d5?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxHcmFuZCUyMGJhbGxyb29tfGVufDB8MHx8fDE3NjE0MzI2Mjh8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Grand ballroom" className="w-full h-full object-cover" />
               </div>
               <div className="col-span-5 row-span-3 rounded-3xl overflow-hidden">
                 <img src="https://images.unsplash.com/photo-1514986888952-8cd320577b68?q=80&w=1600&auto=format&fit=crop" alt="Couture tablescape" className="w-full h-full object-cover" />
               </div>
               <div className="col-span-5 row-span-3 rounded-3xl overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1532635545-3751778c7f83?q=80&w=1600&auto=format&fit=crop" alt="Artful florals" className="w-full h-full object-cover" />
+                <img src="https://images.unsplash.com/photo-1717778444574-f2a865927769?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxBcnRmdWwlMjBmbG9yYWxzfGVufDB8MHx8fDE3NjE0MzI2Mjh8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Artful florals" className="w-full h-full object-cover" />
               </div>
 
               <div className="pointer-events-none absolute inset-0 rounded-3xl" style={{ boxShadow: 'inset 0 0 0 1px rgba(255,255,255,0.08)' }} />
